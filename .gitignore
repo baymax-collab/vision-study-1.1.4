@@ -12,6 +12,7 @@ Assets/AssetStoreTools*
 
 Plugins.meta
 
+build_BurstDebugInformation_DoNotShip
 
 **/Logs
 
